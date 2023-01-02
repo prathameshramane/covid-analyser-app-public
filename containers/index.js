@@ -1,0 +1,9 @@
+export { default as LoginForm } from "./LoginForm";
+export { default as RegistrationForm } from "./RegistrationForm";
+export { default as Navbar } from "./Navbar";
+export { default as Dashboard } from "./Dashboard";
+export { default as Profile } from "./Profile";
+export { default as ReportList } from "./ReportList";
+export { default as ReportDetails } from "./ReportDetails";
+export { default as CurrentDiseaseForm } from "./CurrentDiseaseForm";
+export { default as PastDiseaseForm } from "./PastDiseaseForm";
